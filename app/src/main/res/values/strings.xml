@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaNotificationDemo</string>
+    <string name="notification_title">This is title</string>
+    <string name="notification_subtitle">subtitle</string>
+    <string name="open_notification">open notification</string>
+    <string name="close_notification">close notification</string>
+</resources>
